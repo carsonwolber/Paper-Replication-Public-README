@@ -8,4 +8,7 @@ In accordance with academic integrity bylaws, the source code of this project is
 Jones, Damon, David Molitor, and Julian Reif. 2019. “What do Workplace Wellness Programs do? Evidence from the Illinois Workplace Wellness Study.” Quarterly Journal of Economics, 134(4): 1747-1791: 
 [qjz023.pdf](https://github.com/carsonwolber/Paper-Replication-Public-README/files/14155335/qjz023.pdf)
 
+Online Appendix: [qjz023_online_appendix.pdf](https://github.com/carsonwolber/Paper-Replication-Public-README/files/14155342/qjz023_online_appendix.pdf)
+
+
 
